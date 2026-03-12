@@ -9,17 +9,17 @@ const API_URL = 'https://script.google.com/macros/s/AKfycbxphrgMe0F1GOimkWnHrGeS
 
 // ── カラーテーマ ──
 const C = {
-  accent: '#1a7a45',
-  accentLight: '#28a85e',
-  accentBg: 'rgba(26,122,69,0.06)',
-  accentBorder: 'rgba(26,122,69,0.15)',
+  accent: '#0ea5c7',
+  accentLight: '#43d7ff',
+  accentBg: 'rgba(67,215,255,0.06)',
+  accentBorder: 'rgba(67,215,255,0.15)',
   bg: '#ffffff',
-  pageBg: '#f4f7f5',
-  card: '#f4f7f5',
-  cardBorder: '#dce6df',
-  text: '#1a2b22',
-  textSub: '#4a6055',
-  textMuted: '#94a89c',
+  pageBg: '#f4f7f9',
+  card: '#f4f7f9',
+  cardBorder: '#dce3ea',
+  text: '#1a2229',
+  textSub: '#4a5c66',
+  textMuted: '#94a4ac',
   red: '#d64545',
   blue: '#3b82f6',
 }
